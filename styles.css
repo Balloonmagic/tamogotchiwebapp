@@ -8,6 +8,9 @@ body {
     margin: 0;
 }
 
+p {
+    text-align: bottom;
+}
 .screen {
     text-align: center;
     background-color: #fff;
@@ -62,3 +65,4 @@ input[type="text"] {
     border-radius: 10px;
     margin-top: 20px;
 }
+
